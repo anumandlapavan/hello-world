@@ -1,1 +1,2 @@
-"# hello-world" 
+"# hello-world"
+IIT R Inten Day 1 - Practicing git commands.
